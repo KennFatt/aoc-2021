@@ -1,0 +1,7 @@
+{
+  "name": "01-sonar-sweep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kennan Fattah <kennfatt@gmail.com>",
+  "license": "MIT"
+}
