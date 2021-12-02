@@ -1,0 +1,14 @@
+{
+  "name": "02_dive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kennan Fattah <kennfatt@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
